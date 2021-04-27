@@ -1,4 +1,6 @@
-#**Platzi Video**
+##**Platzi Video**
+
+
 ###Esta parte del proyecto fue realizado con el curso practico de react de Platzi.
 
 **Comandos Para instalar y correr el proyecto**
